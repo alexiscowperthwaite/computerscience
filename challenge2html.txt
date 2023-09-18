@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Addition</title>
+</head>
+<body>
+    <h1>Addition Result Generator (aka calc)</h1>
+    <label>Enter a number: </label>
+    <input id="number" >
+    <label>Enter another number: </label>
+    <input id="number" >
+    <button onclick="generatemultiplication()">Generate Result</button>
+    <div id="multiplicationResult"></div>
+    <script>
+        function generatemultiplication() {
+
+    </script>
+</body>
+</html>
+
+<script language="JavaScript">
+    first = prompt("Enter your first number.");
+    <input id="number" >
+    last = prompt("Enter your second number.");
+    <input id="number" >
+    </script>
+    
+    <p id="first,last"></p>
+    
+    <script>
+    var y = first
+    var z = last
+    var x = y + z;
+    document.getElementById("first,last").innerHTML = x;
+    </script> 
